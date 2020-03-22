@@ -29,10 +29,10 @@ description: "Pagina principale"
         {% if paginator.total_pages > 1 %}
         <div class="pager">
           {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left">&larr; Newer </a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left">&larr; Post più recenti </a>
           {% endif %}
     {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-right">Older &rarr;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-right">Post più vecchi &rarr;</a>
            {% endif %}
         </div>
         {% endif %}
