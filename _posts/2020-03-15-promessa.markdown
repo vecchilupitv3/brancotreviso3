@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "In caccia per la promessa!"
+date:   2017-05-16 14:44:20 -0500
+author: "Vecchi Lupi"
+feature: "promessa.gif"
+subtitle: "Premendo su Continua a leggere troverete tutto quello che vi serve per poter fare la promessa una volta tornati!"
+---
+<div align="center">
+<p>
+<h5>La promessa</h5>
+<p><em>Con l'aiuto e l'esempio di Gesù, prometto di fare del mio meglio nel</em></p>
+<p><em>migliorare me stesso,</em></p>
+<p><em>aiutare gli altri</em></p>
+<p><em>e osservare la legge del branco.</em></p>
+</p>
+
+<p>
+<h5>La legge</h5>
+<p><em>Il lupetto e la lupetta pensa agli altri come a sé stesso.</em></p>
+<p><em>Il lupetto e la lupetta vivono con gioia e lealtà nel branco.</em></p>
+</p>
+
+<p>
+<h5>Il motto</h5>
+<p><em>Del nostro Meglio.</em></p>
+</p>
+
+<p>
+<h5>La preghiera di San Francesco</h5>
+<p><em>O santo Francesco buono,</em></p>
+<p><em>ascolta la preghiera dei tuoi Lupetti.</em></p>
+<p><em>Tu, la cui parola d’amore ascoltavano</em></p>
+<p><em>gli uccelli, i pesci e il lupo feroce,</em></p>
+<p><em>fà che scenda nel nostro cuore</em></p>
+<p><em>la soave bontà del Signore.</em></p>
+<p><em>Fà che possiamo sempre</em></p>
+<p><em>amare e servire gli amici</em></p>
+<p><em>ed i nemici come tu ci hai mostrato.</em></p>
+<p><em>Fà che la nostra anima sia sempre candida,</em></p>
+<p><em>perché i nostri canti e le nostre gioie</em></p>
+<p><em>giungano fino a te,e tu possa così</em></p>
+<p><em>offrire i nostri cuori a Gesù.</em></p>
+<p><em>Amen. </em></p>
+</p>
+</div>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
