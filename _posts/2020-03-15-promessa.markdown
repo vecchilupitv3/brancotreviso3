@@ -3,6 +3,7 @@ layout: post
 title:  "In caccia per la promessa!"
 date:   2020-03-15 14:44:20 -0500
 author: "Vecchi Lupi"
+feature: "saluto.jpg"
 subtitle: "Premendo su Continua a leggere troverete tutto quello che vi serve per poter fare la promessa una volta tornati!"
 ---
 <div align="center">
