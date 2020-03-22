@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "La tigre! La tigre!"
+date:   2020-03-22 14:44:20 -0500
+author: "Vecchi Lupi"
+feature: "tigre.png"
+subtitle: "Premete su Continua a leggere per ascoltare il racconto della tigre!"
+---
+
+<div align="center">
+<iframe src="https://drive.google.com/file/d/1WxE0TzH-BhX4yD9J-fr_Il3GVBEU1tIh/preview" width="640" height="480"></iframe>
+</div>
+<p>
+<b>Attenzione!</b> Se non riuscite a visualizzare il video, premete sul tastino in alto a destra nel riquadro del video. Altrimenti, seguire questo link: <a href="https://drive.google.com/file/d/1WxE0TzH-BhX4yD9J-fr_Il3GVBEU1tIh/preview" target="_blank">CLICCAMI</a>.</p>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ritorno del Figliol Prodigo"
-date:   2017-05-16 14:44:20 -0500
+date:   2020-03-15 14:44:20 -0500
 author: "Vecchi Lupi"
 feature: "rembrandt.jpg"
 subtitle: "Premete su Continua a leggere per scoprire i misteri di questo quadro!"

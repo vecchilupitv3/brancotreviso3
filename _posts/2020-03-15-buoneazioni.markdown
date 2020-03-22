@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ecco le vostre buone azioni!"
-date:   2017-05-16 14:44:20 -0500
+date:   2020-03-15 14:44:20 -0500
 author: "Vecchi Lupi"
 feature: "ba.png"
 subtitle: "Premete su continua a leggere per vedere lo spartito!"
