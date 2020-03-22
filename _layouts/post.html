@@ -8,14 +8,14 @@ layout: page
                  {{ page.title }}
               </div>
               <div class="post-subtitle">
-                Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}
+                Pubblicato da {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}
               </div>
             </header>
             <article class="post-article">
-             {{ content }} 
+             {{ content }}
             </article>
 </div>
-<hr> 
+<hr>
 <div class="pager">
     {% if page.previous.url %}
     <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left" title="{{page.previous.title}}">&larr; Previous</a>
