@@ -6,7 +6,7 @@ title: Branco "La Parlata Nuova" TV3
 site-description: Sito ufficiale del nostro branco
 your_name: Vecchi Lupi #Your Name for About
 markdown: kramdown
-paginate: 5 #Total Number of Post in each Page
+paginate: 8 #Total Number of Post in each Page
 gems: [jekyll-paginate, jekyll-feed]
 exclude:
   - Gemfile
